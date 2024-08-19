@@ -1,6 +1,6 @@
 import React from "react";
 import logo from "/src/assets/logo2re.png"; // Ajuste o caminho da imagem conforme necessário
-
+import Modal from "../Modal";
 /* const Logo = () => {
   return (
     <div className="absolute  left-6 w-auto h-[4.5rem] items-center">
@@ -17,6 +17,7 @@ const Navbar = () => {
           <div className="text-white text-lg font-bold">Pet Shop</div>
         </div>
         <ul className="flex space-x-4">
+          <Modal></Modal>
           <li>
             <a href="#" className="text-white hover:text-gray-300">
               Home
