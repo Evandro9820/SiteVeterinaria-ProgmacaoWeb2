@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react";
 import Cat2 from "../../assets/cat2.jpg";
 import Cat3 from "../../assets/cat3.jpg";
-import Cat from "../../assets/cat.jpg";
+import Cat from "../../assets/Cat.jpg";
 import Dog from "../../assets/dog.jpg";
 
 function Carrossel() {

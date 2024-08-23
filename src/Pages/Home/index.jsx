@@ -2,7 +2,7 @@ import Header from "../../components/Header";
 import Main from "../../components/Main";
 import Carousel from "../../components/Carousel";
 import Card from "../../components/Card";
-import Cat from "../../assets/Cat4.jpg";
+import Cat from "../../assets/cat4.jpg";
 import Sessao from "../../components/Section";
 import Formulario from "../../components/FormContato";
 import Footer from "../../components/Footer";
