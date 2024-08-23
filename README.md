@@ -1,8 +1,19 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# PetShop - Jacar  
 
-Currently, two official plugins are available:
+Este projeto foi criado com [Vite](https://vitejs.dev/) e [React](https://reactjs.org/).
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Sobre
+
+Este site foi feito para exercitar os conceitos de React, como componentes, estado e props, e também para praticar a utilização de bibliotecas como Vite e Firebase.
+
+O site tem uma estrutura simples, com uma barra de navega o no topo, um main com uma imagem de um gato e um formul rio de contato, e um rodap  com informa es de autor.
+
+## Como executar
+
+Para executar o projeto,  necess rio ter o [Node.js](https://nodejs.org/en/) instalado na m quina.
+
+Em seguida, execute os seguintes comandos no terminal:
+
+``` Npm install``
+```npm run dev```
